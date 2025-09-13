@@ -45,3 +45,21 @@ Clientes: listado básico de clientes registrados.
 Proveedores: listado de proveedores con sus datos de contacto.
 
 Reportes: totales y alertas de stock simuladas.
+
+6. capturas
+## 📸 Capturas
+
+### Inicio
+![GA7-AA4-EV03-SGIPE/docs/inicio.png](./docs/inicio.png)
+
+### Productos
+![GA7-AA4-EV03-SGIPE/docs/productos.png](./docs/productos.png)
+
+### Clientes
+![GA7-AA4-EV03-SGIPE/docs/clientes.png](./docs/clientes.png)
+
+### Proveedores
+![GA7-AA4-EV03-SGIPE/docs/proveedores.png](./docs/proveedores.png)
+
+### Reportes
+![GA7-AA4-EV03-SGIPE/docs/reportes.png](./docs/reportes.png)
